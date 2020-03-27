@@ -21,7 +21,7 @@ closeCent['A']
 # (len(G.nodes()) - 1) / sum(nx.shortest_path_length(G,'A').values()
 ```
 
-### Closeness Centrality in Disconnected Networks
+## Closeness Centrality in Disconnected Networks
 
 How can we measure the closeness centrality of a node when
 it cannot reach all other nodes?
